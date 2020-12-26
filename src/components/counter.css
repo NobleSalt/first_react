@@ -1,0 +1,13 @@
+.badge{
+    padding: 1em;
+    border-radius: 15%;
+    /* border: 1px black solid; */
+}
+
+.badge-blue{
+    background-color: rgba(0, 0, 255, .7);
+}
+
+.badge-red{
+    background-color: rgba(255, 0, 0, .7);
+}
